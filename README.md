@@ -5,6 +5,8 @@ An AI-powered email assistant that lets you search, summarize, and draft replies
 > 📸 Add a screenshot of the app here: `![App screenshot](screenshot![Uploading image.png…](<img width="1812" height="867" alt="image" src="https://github.com/user-attachments/assets/b4b4bdce-509c-4622-a6b0-ffe6a22f343d" />
 )
 s/app.png)`
+> <img width="1812" height="867" alt="image" src="https://github.com/user-attachments/assets/9f2125bd-f5fc-42eb-af72-91cf97726666" />
+
 
 ## ✨ Features
 
